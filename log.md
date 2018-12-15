@@ -22,9 +22,7 @@
 
 ### Day 3: December 15 2018, Saturday
 
-**Today's Progress**: 
-
-**Thoughts** 
+**Today's Progress**: Fix testing of the eniric config. Adjust docs of Starfish. Adjust eniric to handle new starfish api for normalization.
 
 **Link(s) to work**
 
